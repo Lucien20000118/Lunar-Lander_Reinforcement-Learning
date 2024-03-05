@@ -11,7 +11,7 @@
 使用 PPO (Proximal Policy Optimization)
 
 ## 目標
-讓 Lunar Lander 在不撞上障礙物的情況下，安全地降落在指定平台中，並穩定。
+讓 Lunar Lander 在不撞上障礙物的情況下，安全地降落在指定平台中。
 
 ## 訓練結果
 
