@@ -14,6 +14,8 @@
 讓 Lunar Lander 在不撞上障礙物的情況下，安全地降落在指定平台中，並穩定。
 
 ## 訓練結果
-<video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/Lucien20000118/Lunar-Lander_Reinforcement-Learning/assets/108883552/cc8360b1-c9fd-4758-9f1b-23b233b84235
+
+
